@@ -1,2 +1,14 @@
-# portfolio
-Portfolio Website | HTML, CSS, JavaScript  • Designed and developed a responsive personal portfolio website showcasing skills, projects, certifications, and achievements. • Implemented modern UI design, smooth navigation, and mobile-friendly layouts to provide an engaging user experience.
+# Personal Portfolio Website
+
+Live Website:
+https://rishikrishna1708-tech.github.io/portfolio/
+
+A responsive portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, certifications, achievements, and internship experience.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Author
+Rishi Krishna S
